@@ -1,0 +1,12 @@
+.symbol-container {
+    background-color: #d8d8d8; /* Color de fondo del contenedor del símbolo */
+    padding: 20px; /* Espaciado interno */
+    margin: auto;
+    border-radius: 10px; /* Borde redondeado */
+    margin-bottom: 15px; /* Espaciado inferior */
+}
+
+.symbol-container span {
+    font-size: 6rem;
+    color: #5623a8; /* Color del símbolo */
+}
